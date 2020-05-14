@@ -25,10 +25,6 @@
   Step 4) Let’s Party or Dancing! Yeah!
 
 ————————————————-
+
 Taito Otani  | NINETEEN95 Studio
-
   —>>>  [Support here](https://paypal.me/taitootani?locale.x=ja_JP) <<—
-
-  Twitter: [@taito_otani](https://twitter.com/taito_otani)
-  Instagram: [@taito_otani](https://www.instagram.com/taito_otani/)
-  WEB : [BOBOBIBABO.Club](http://bobobibabo.club/)
