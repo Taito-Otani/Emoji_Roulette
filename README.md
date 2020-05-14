@@ -7,7 +7,7 @@
   this plugin output midi note. You can watch here.
 
 ## How to Install
-  Step 1 ) Unzip “EmojiRoulette.zip“
+  Step 1 ) clone and donwload
 
   Step 2 ) Move “EmojiRoulette.amxd” your max for live search path.
 
