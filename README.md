@@ -1,8 +1,10 @@
 # Emoji Roulette
   This Emoji Roulette is plugin for max for live.
-  Emoji Roulette for M4L Device. Created by Taito Otani 😎 
+  Emoji Roulette for M4L Device. 
+  
   ![demo](https://media.giphy.com/media/RgsWKA0GUzzz0lQqZC/source.gif)
   
+  Created by Taito Otani 😎 
 
 ## Overview
   This plugin is for Max for live as a MIDI effect plugin. 
