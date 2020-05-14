@@ -1,4 +1,4 @@
-# Emoji_Roulette
+# Emoji Roulette
   This Emoji Roulette is plugin for max for live.
   Emoji Roulette for M4L Device. Created by Taito Otani 😎 
 
@@ -7,7 +7,7 @@
   this plugin output midi note. You can watch here.
 
 ## How to Install
-  Step 1 ) clone and donwload
+  Step 1 ) download this repository
 
   Step 2 ) Move “EmojiRoulette.amxd” your max for live search path.
 
